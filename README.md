@@ -24,4 +24,4 @@ An experimental AI-powered doctor that listens, sees, and responds — all in on
 git clone https://github.com/Saket200/AI-Doctor-2.0.git
 cd ai-doctor-2.0
 pip install -r requirements.txt
-python app.py
+python gradio_app.py
